@@ -13,3 +13,6 @@ Log<br>
 20230729:PORTFOLIO大型改修<br>
 20230729:indexページ以外の背景アニメーション追加<br>
 20230731:WorkSc:「checkBtn」&「moreリンク」ホバーアニメーション追加&css調整<br>
+20230802:WorkSc:「実務制作」&「自主制作」リボン追加&css調整<br>
+
+
