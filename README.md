@@ -15,5 +15,5 @@ Log<br>
 20230731:WorkSc:「checkBtn」&「moreリンク」ホバーアニメーション追加&css調整<br>
 20230802:WorkSc:「実務制作」&「自主制作」リボン追加&css調整<br>
 20230802:WorkSc:成果物入れ替え<br>
-
+20230805:WorkSc&全Work一覧P:成果物説明修正/css軽微修正<br>
 
